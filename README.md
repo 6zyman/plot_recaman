@@ -1,2 +1,2 @@
 # plot_recaman
-generating and ploting recaman with turtle
+generating and ploting recaman Series with turtle
